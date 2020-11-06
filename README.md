@@ -26,9 +26,9 @@ tagC="\The Game DX\Game.exe"
 - Optionally you can put a ``forward=1`` or ``shortcut=1`` to make Ninty set the application type automatically.
 - The ``{EntryType}`` field must be **one** of those listed bellow, choose the one that best fits your entry.
 	- ``{G}`` **Games** - The title says by itself.
-	- ``{M}`` **Mods** - Mods and loaders official and unofficial games.
-	- ``{A}`` **Applications** - Focused on general users: Applications for general purpose, multimedia, ect...
-	- ``{T}`` **Tools** - Focused on advanced users: Editors and tools for software development, design, game modding creation, etc...
+	- ``{M}`` **Mods** - Mods and loaders for official and unofficial games.
+	- ``{A}`` **Applications** - Focused on general users: applications for general purpose, multimedia, etc...
+	- ``{T}`` **Tools** - Focused on advanced users: tools for software development, game modding creation, etc...
 	- ``{E}`` **Emulators** - Exclusively for video game emulators.
 
 ## Credits
@@ -39,11 +39,17 @@ All the resources provided here were made possible thanks to the contribution of
 * Arklem  
 * Braguetta  
 * Biel98765  
+* Dfmrd  
 * igorsales73  
 * IncrivelXand  
+* MasterXYZ  
 * Mexiboi  
+* Nerd  
 * Nin★ (NinStar)  
-* Ostrich101
+* Ostrich101  
+* ozielados  
+* Sparks  
 * Seph  
 * SiuLunar  
 * Thewolensheep  
+* WodsonKun  
