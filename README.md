@@ -41,7 +41,7 @@ All resources provided here were made possible thanks to the contribution of the
 * Arklem  
 * Braguetta  
 * Biel98765  
-* Dfmrd  
+* Clayton  
 * igorsales73  
 * IncrivelXand  
 * MasterXYZ  
